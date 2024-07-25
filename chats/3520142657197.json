@@ -1,0 +1,981 @@
+{
+    "user_id": "3520142657197",
+    "chat": [
+        {
+            "role": "user",
+            "content": "what is abhi",
+            "timestamp": "2024-06-12T10:11:35.628971"
+        },
+        {
+            "role": "assistant",
+            "content": "Abhi is a Pakistani fintech company providing financial services like Earned Wage Access, Invoice Factoring, and Payroll Solutions to empower businesses and their employees. With Abhi, employees can access their earned but unpaid salary anytime using the app or SMS, which helps them manage financial stress and boosts productivity at work.",
+            "timestamp": "2024-06-12T10:11:39.820191"
+        },
+        {
+            "role": "user",
+            "content": "What is abhi",
+            "timestamp": "2024-06-12T10:19:32.271414"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to abhi, How can I assist you today?\n\nAbhi aik Pakistani fintech company hai jo Earned Wage Access, Invoice Factoring, aur Payroll Solutions jese financial services faraham karti hai. Employees is app ya SMS ke zariye apne earned magar ada na kiye gaye salary ko kisi bhi waqt access kar sakte hain, jisse unko financial stress se nijat milti hai aur kaam mein zyada productivity aati hai.",
+            "timestamp": "2024-06-12T10:19:37.566849"
+        },
+        {
+            "role": "user",
+            "content": "What is abhi",
+            "timestamp": "2024-06-12T10:20:16.139930"
+        },
+        {
+            "role": "assistant",
+            "content": "Abhi aik Pakistani fintech company hai jis ki khas features mein Earned Wage Access, Invoice Factoring, aur Payroll Solutions shamil hain. Eska maqsad businesses aur unke employees ki financial zarooriayat ko aasani se pura karna hai. Employees Abhi app ke zariye apne kamae huye lekin abhi tak adaa na huey tanqaa ke kuch hissay tak rasai hasil kar sakte hain kabhi bhi, jis se unhein emergency mein madad mil sakti hai aur employers ko barhawar productivity ki umeed hoti hai.",
+            "timestamp": "2024-06-12T10:20:25.394073"
+        },
+        {
+            "role": "user",
+            "content": "what",
+            "timestamp": "2024-06-12T10:23:45.027450"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to abhi, How can I assist you today?",
+            "timestamp": "2024-06-12T10:23:46.838021"
+        },
+        {
+            "role": "user",
+            "content": "what",
+            "timestamp": "2024-06-12T10:26:30.374118"
+        },
+        {
+            "role": "assistant",
+            "content": "Abhi ek Pakistani fintech company hai jo employees ko unki kamai hui magar abhi tak adaa na ki gai salary tak fori rasai dene ka service faraham karti hai. App ya SMS ke zariye, employees apni salary ka kuch hissa pehle hi le sakte hain, isse unko financial hangami halat mein madad mil sakti hai aur employers ko productivity mein izafa dekhne ko milta hai.",
+            "timestamp": "2024-06-12T10:26:35.966678"
+        },
+        {
+            "role": "user",
+            "content": "What is abhi ",
+            "timestamp": "2024-06-12T10:28:24.802049"
+        },
+        {
+            "role": "assistant",
+            "content": "Abhi is a Pakistani fintech company that offers Earned Wage Access, allowing employees to access their earned salaries before their typical payday through an app or SMS. It's designed to alleviate financial stress and increase workplace productivity by providing employees with the flexibility to withdraw their salary as needed.",
+            "timestamp": "2024-06-12T10:28:30.174779"
+        },
+        {
+            "role": "user",
+            "content": "who are you",
+            "timestamp": "2024-06-12T10:28:40.040098"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to abhi, How can I assist you today?",
+            "timestamp": "2024-06-12T10:28:44.296017"
+        },
+        {
+            "role": "user",
+            "content": "who is dil nawaz",
+            "timestamp": "2024-06-12T10:29:02.407478"
+        },
+        {
+            "role": "assistant",
+            "content": "Please provide the CNIC number associated with Dil Nawaz, and I can look up the relevant information using Abhi's tools.",
+            "timestamp": "2024-06-12T10:29:05.115709"
+        },
+        {
+            "role": "user",
+            "content": "who is raze",
+            "timestamp": "2024-06-12T10:31:59.941394"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm sorry, but I need more specific information to assist you with your inquiry about someone named Raze. If you're asking about an individual's employment or transaction details related to Abhi services, please provide their CNIC number so I can fetch the relevant data. If you have any other questions about Abhi's services or need assistance with something else, feel free to ask!",
+            "timestamp": "2024-06-12T10:32:04.774390"
+        },
+        {
+            "role": "user",
+            "content": "",
+            "timestamp": "2024-06-12T10:33:47.354061"
+        },
+        {
+            "role": "assistant",
+            "content": "If you have any questions or need assistance related to Abhi's services, please feel free to share more details or ask your question. I'm here to help!",
+            "timestamp": "2024-06-12T10:33:49.546436"
+        },
+        {
+            "role": "user",
+            "content": "Hello Cashy !",
+            "timestamp": "2024-06-12T10:34:37.728127"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to abhi, How can I assist you today?",
+            "timestamp": "2024-06-12T10:34:40.426951"
+        },
+        {
+            "role": "user",
+            "content": "Hello Cashy !",
+            "timestamp": "2024-06-12T10:34:49.479146"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to abhi, How can I assist you today?",
+            "timestamp": "2024-06-12T10:34:51.780020"
+        },
+        {
+            "role": "user",
+            "content": "dhb",
+            "timestamp": "2024-06-12T10:35:23.462525"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm sorry, but I need more context to understand your message. If you have any specific questions about Abhi's services or require assistance, please provide more details so I can assist you effectively.",
+            "timestamp": "2024-06-12T10:35:27.629673"
+        },
+        {
+            "role": "user",
+            "content": "",
+            "timestamp": "2024-06-12T10:35:35.141967"
+        },
+        {
+            "role": "assistant",
+            "content": "If you have a question or need support with Abhi's services, feel free to share your concerns or inquiries. I'm here to help!",
+            "timestamp": "2024-06-12T10:35:38.131921"
+        },
+        {
+            "role": "user",
+            "content": "Hello Cashy !",
+            "timestamp": "2024-06-12T10:35:40.707259"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to abhi, How can I assist you today?",
+            "timestamp": "2024-06-12T10:35:42.241407"
+        },
+        {
+            "role": "user",
+            "content": "Hello Cashy !",
+            "timestamp": "2024-06-12T10:37:37.250717"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to abhi, How can I assist you today?",
+            "timestamp": "2024-06-12T10:37:39.808410"
+        },
+        {
+            "role": "user",
+            "content": "ds",
+            "timestamp": "2024-06-12T10:37:44.444164"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm sorry, but the message \"ds\" is unclear to me. If you have any questions about Abhi or need assistance with something specific, please let me know, and I'd be happy to help!",
+            "timestamp": "2024-06-12T10:37:47.213595"
+        },
+        {
+            "role": "user",
+            "content": "sdfs",
+            "timestamp": "2024-06-12T10:37:54.468561"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm sorry, but I need more specific information to assist you. If you have any questions regarding Abhi or its services, please feel free to ask.",
+            "timestamp": "2024-06-12T10:37:56.782197"
+        },
+        {
+            "role": "user",
+            "content": "",
+            "timestamp": "2024-06-12T10:38:37.822484"
+        },
+        {
+            "role": "assistant",
+            "content": "Agar aapke pass koi sawal hai ya aapko Abhi ke services ke bare mein madad chahiye, toh please apna sawal yahan share karein. Main yahan madad ke liye maujood hoon.",
+            "timestamp": "2024-06-12T10:38:41.032356"
+        },
+        {
+            "role": "user",
+            "content": "",
+            "timestamp": "2024-06-12T10:38:44.936227"
+        },
+        {
+            "role": "assistant",
+            "content": "Agar aapko kisi bhi qism ki madad chahiye ya koi sawal poochna chahte hain Abhi ke baray mein, toh barah-e-karam likhiye. Main yahan aap ki madad ke liye hoon.",
+            "timestamp": "2024-06-12T10:38:48.846487"
+        },
+        {
+            "role": "user",
+            "content": "ab",
+            "timestamp": "2024-06-12T10:40:01.546538"
+        },
+        {
+            "role": "assistant",
+            "content": "Aapka message \"ab\" saaf nahi hai. Barah-e-karam, ager aap Abhi app ke hawale se koi maloomat chahte hain ya madad darkar hai, toh zyada details share karein taake main aapki madad kar sakoon. Shukriya!",
+            "timestamp": "2024-06-12T10:40:05.346835"
+        },
+        {
+            "role": "user",
+            "content": "Avaa",
+            "timestamp": "2024-06-12T10:40:22.228625"
+        },
+        {
+            "role": "assistant",
+            "content": "Aapka message mujhe sahi se samajh nahi aya. Agar aapko Abhi ke services ke baare mein koi sawal poochna hai ya aapko kisi bhi tarah ki madad chahiye toh, barah-e-karam wazeh sawal karein ya phir apni inquiry ko clear karein. Main yahan aapki madad ke liye hoon.",
+            "timestamp": "2024-06-12T10:40:27.160433"
+        },
+        {
+            "role": "user",
+            "content": "sdfdf",
+            "timestamp": "2024-06-12T10:41:06.189735"
+        },
+        {
+            "role": "assistant",
+            "content": "Lagta hai keh aapka message ghalti se type ho gaya hai. Agar aap Abhi ke services ke mutaliq koi sawal karna chahte hain ya madad ki zaroorat hai, toh please saaf aur wazeh tor par apna sawal ya pareshani bayan karein. Main aap ki madad ke liye yahan hoon.",
+            "timestamp": "2024-06-12T10:41:10.866529"
+        },
+        {
+            "role": "user",
+            "content": "ahmad butt kon ha or wo kya karta ha ",
+            "timestamp": "2024-06-12T10:43:58.774327"
+        },
+        {
+            "role": "assistant",
+            "content": "Barah-e-karam, Ahmad Butt ke hawale se specific maloomat hasil karne ke liye aapko unka CNIC number faraham karna hoga. Phir main Abhi ke records se unke roozgar ya transaction ki status check kar sakta hoon. Agar aapko Abhi service se mutaliq koi aur sawal hai ya koi aur assistance chahiye toh mein madad ke liye hazir hoon.",
+            "timestamp": "2024-06-12T10:44:03.052425"
+        },
+        {
+            "role": "user",
+            "content": "3460358820847",
+            "timestamp": "2024-06-12T10:44:30.420078"
+        },
+        {
+            "role": "assistant",
+            "content": "CNIC number 3460358820847 ke mutabiq, Ahmad Khalid Butt naam ke shakhs ki information system mein majood hai. Unki reported salary 1000000 hai, lekin filhal unki verification complete nahi hui hai aur unke bank details bhi reject kiye gaye hain.\n\nMazeed tafseelat ya madad ke liye barah-e-karam connect@abhi.com.pk par email karen ya +923041115276 par call karen.",
+            "timestamp": "2024-06-12T10:44:51.185854"
+        },
+        {
+            "role": "user",
+            "content": "who is raze",
+            "timestamp": "2024-06-12T10:45:53.814553"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm unable to provide information about someone named Raze without more context or specific details. If you are referring to an individual associated with Abhi and can provide their CNIC number, I can look up the relevant information. For further assistance or inquiries, feel free to contact us at connect@abhi.com.pk or call at +923041115276.",
+            "timestamp": "2024-06-12T10:46:03.290274"
+        },
+        {
+            "role": "user",
+            "content": "3520142657197",
+            "timestamp": "2024-06-12T10:46:09.991370"
+        },
+        {
+            "role": "assistant",
+            "content": "Muhammad Raze ke naam se CNIC number 3520142657197 ke sath ek shakhs ki maloomat system mein majood hai. Unki reported salary abhi tak system mein 0 hai, aur unka account status is waqt \"Active\" hai, jiske bank account details processed ok hain aur account number 25447001335103 hai. Unki verification ab tak complete nahi hui hai.\n\nAgar aap ko mazeed maloomat chahiye ya kisi kisam ki madad ki zarooriat hai to aap connect@abhi.com.pk par email kar sakte hain ya +923041115276 par call kar ke customer support se rabita kar sakte hain.",
+            "timestamp": "2024-06-12T10:46:22.779004"
+        },
+        {
+            "role": "user",
+            "content": "who is hamza ",
+            "timestamp": "2024-06-12T10:47:47.378293"
+        },
+        {
+            "role": "assistant",
+            "content": "Hamza ke hawale se maloomat hasil karne ke liye mujhe zyada specific details ki zarurat hogi, jese ke unka CNIC number. Abhi ki services se related agar aapko unke baare mein maloomat chaiye to barah-e-karam, unka CNIC number farahem karein taake main aapko sahi maloomat provide kar sakoon.\n\nMazeed madad ke liye aap ham se email ke zariye connect@abhi.com.pk par bhi rabta kar sakte hain ya +923041115276 par call kar sakte hain.",
+            "timestamp": "2024-06-12T10:47:55.506144"
+        },
+        {
+            "role": "user",
+            "content": "3840346993087",
+            "timestamp": "2024-06-12T10:48:13.687488"
+        },
+        {
+            "role": "assistant",
+            "content": "CNIC number 3840346993087 ke record ke mutabiq, Ameer Hamza Butt naam ke shakhs ki maloomat system mein majood hai. Unki reported salary 1,000,000 hai, aur unka account status \"approved\" hai lekin unki verification abhi mukammal nahi hui hai. Unke bank account details mein status \"Active\" hai, account title \"NAVEED VICTOR\" hai, aur account number \"0157010310266\" hai.\n\nAgar aap ko iss information se mutaliq aur koi sawalat hain ya madad ki zarurat hai, toh barah-e-karam aap ham se email ke zariye connect@abhi.com.pk par rabta karein yahamare phone number +923041115276 par call kar sakte hain.",
+            "timestamp": "2024-06-12T10:48:30.481897"
+        },
+        {
+            "role": "user",
+            "content": "3520142657198",
+            "timestamp": "2024-06-12T10:49:13.903803"
+        },
+        {
+            "role": "assistant",
+            "content": "Mujhe maazrat khwani hai, lekin CNIC number 3520142657198 ke sath kisi bhi shakhs ki maloomat Abhi ke database mein nahi paayi ja rahi hai. Ho sakta hai ke yeh number Abhi ki service se wabasta na ho ya phir ghalat number enter kiya gaya ho.\n\nAgar aapko mazeed maloomat chaiye ya aapko lagta hai yeh ek ghalti hai, toh barah-e-karam connect@abhi.com.pk par email ke zariye raabta karein ya phone number +923041115276 par call karen taake aapki mukammal madad ki ja sake. Shukriya!",
+            "timestamp": "2024-06-12T10:49:28.798019"
+        },
+        {
+            "role": "user",
+            "content": "mera balance kitna ha ",
+            "timestamp": "2024-06-12T10:51:59.387495"
+        },
+        {
+            "role": "assistant",
+            "content": "Barah-e-karam, apna CNIC number mujhe faraham karein takay main Abhi ki system mein aapke available balance ki maloomat hasil kar sakoon. Aapka CNIC number sirf aapke balance inquiry ke liye istemal kiya jayega.",
+            "timestamp": "2024-06-12T10:52:04.265778"
+        },
+        {
+            "role": "user",
+            "content": "3460320430755",
+            "timestamp": "2024-06-12T10:52:28.658235"
+        },
+        {
+            "role": "assistant",
+            "content": "Aapka maujooda available balance Rs. 28,78,490 hai. Agar aapko apne balance se mutaliq koi aur sawal hai ya koi aur maloomat chahiye, toh barah-e-karam madad ke liye puch sakte hain.",
+            "timestamp": "2024-06-12T10:52:47.390694"
+        },
+        {
+            "role": "user",
+            "content": "Hello Cashy !",
+            "timestamp": "2024-06-12T11:04:06.877370"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to abhi, How can I assist you today?",
+            "timestamp": "2024-06-12T11:04:09.311541"
+        },
+        {
+            "role": "user",
+            "content": "Hello Cashy !",
+            "timestamp": "2024-06-12T11:04:16.619242"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to abhi, How can I assist you today?",
+            "timestamp": "2024-06-12T11:04:19.557165"
+        },
+        {
+            "role": "user",
+            "content": "Who are you",
+            "timestamp": "2024-06-12T11:13:19.932731"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to abhi, How can I assist you today?",
+            "timestamp": "2024-06-12T11:13:22.193230"
+        },
+        {
+            "role": "user",
+            "content": "dsfds",
+            "timestamp": "2024-06-12T11:39:56.068808"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm sorry, but I need more specific information to assist you. If you have any questions about Abhi or need assistance with something specific, please let me know, and I'd be happy to help!",
+            "timestamp": "2024-06-12T11:39:59.943758"
+        },
+        {
+            "role": "user",
+            "content": "Hello Cashy !",
+            "timestamp": "2024-06-12T11:41:58.252120"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to abhi, How can I assist you today?",
+            "timestamp": "2024-06-12T11:42:01.458985"
+        },
+        {
+            "role": "user",
+            "content": "sdfs",
+            "timestamp": "2024-06-12T12:49:18.395886"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm sorry, but I need more specific information to assist you. If you have any questions regarding Abhi or its services, please feel free to ask.",
+            "timestamp": "2024-06-12T12:49:21.372449"
+        },
+        {
+            "role": "user",
+            "content": "asdfg",
+            "timestamp": "2024-06-12T12:49:44.505845"
+        },
+        {
+            "role": "assistant",
+            "content": "It seems there might be a misunderstanding or a typing error. If you need assistance or have any questions about Abhi's services, please provide a clear message, and I will be glad to help you.",
+            "timestamp": "2024-06-12T12:49:49.108741"
+        },
+        {
+            "role": "user",
+            "content": "dddd",
+            "timestamp": "2024-06-12T12:50:42.934546"
+        },
+        {
+            "role": "assistant",
+            "content": "Agar aap Abhi ke services ke hawale se koi sawal poochna chahte hain ya madad ki zarurat hai, to saaf taur par apna paighaam pesh karein taake mein aapki madad kar sakun. Shukriya.",
+            "timestamp": "2024-06-12T12:50:49.218149"
+        },
+        {
+            "role": "user",
+            "content": "Hello Cashy !",
+            "timestamp": "2024-06-12T12:51:07.564085"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to abhi, How can I assist you today?",
+            "timestamp": "2024-06-12T12:51:09.387423"
+        },
+        {
+            "role": "user",
+            "content": "Hello Cashy !",
+            "timestamp": "2024-06-12T12:51:23.960964"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to abhi, How can I assist you today?",
+            "timestamp": "2024-06-12T12:51:26.258155"
+        },
+        {
+            "role": "user",
+            "content": "who are you",
+            "timestamp": "2024-06-12T12:51:47.587896"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to abhi, How can I assist you today?",
+            "timestamp": "2024-06-12T12:51:49.294532"
+        },
+        {
+            "role": "user",
+            "content": "who is atif",
+            "timestamp": "2024-06-12T12:51:56.512157"
+        },
+        {
+            "role": "assistant",
+            "content": "Please provide the CNIC number associated with Atif, and I can look up the relevant information using Abhi's tools.",
+            "timestamp": "2024-06-12T12:52:00.204989"
+        },
+        {
+            "role": "user",
+            "content": "3540162130183",
+            "timestamp": "2024-06-12T12:52:13.600313"
+        },
+        {
+            "role": "assistant",
+            "content": "CNIC number 3540162130183 ke mutabiq, Atif Hanif ka data system mein mojood hai. Unka account status \"Verified\" hai aur unki reported salary Rs. 50,000 hai. Unke bank account details bhi system mein hain aur active hain. \n\nAgar aapko mazeed koi maloomat chahiye ya koi aur sawal hai, to aap connect@abhi.com.pk par email bhej sakte hain ya +923041115276 par phone call kar sakte hain.",
+            "timestamp": "2024-06-12T12:52:25.874160"
+        },
+        {
+            "role": "user",
+            "content": "Hello Cashy !",
+            "timestamp": "2024-06-13T05:29:36.949685"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to abhi, How can I assist you today?",
+            "timestamp": "2024-06-13T05:29:39.310077"
+        },
+        {
+            "role": "user",
+            "content": "dsfsdfs",
+            "timestamp": "2024-06-13T05:34:07.207096"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm sorry, but I need more specific information to assist you. If you have any questions regarding Abhi or its services, please feel free to ask.",
+            "timestamp": "2024-06-13T05:34:11.453545"
+        },
+        {
+            "role": "user",
+            "content": "dddd",
+            "timestamp": "2024-06-13T05:34:37.073839"
+        },
+        {
+            "role": "assistant",
+            "content": "Agar aap Abhi services ke mutalliq kuch poochna chahtay hain ya koi assistance chahtay hain, toh barah-e-karam saaf aur wazeh sawal pochain. Main yahan aapki madad ke liye hoon.",
+            "timestamp": "2024-06-13T05:34:41.714537"
+        },
+        {
+            "role": "user",
+            "content": "Hello",
+            "timestamp": "2024-06-13T05:39:50.991088"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to abhi, How can I assist you today?",
+            "timestamp": "2024-06-13T05:39:53.064738"
+        },
+        {
+            "role": "user",
+            "content": "Hello Cashy !",
+            "timestamp": "2024-06-13T05:52:03.624532"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to abhi, How can I assist you today?",
+            "timestamp": "2024-06-13T05:52:06.074382"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T06:18:39.439415"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0645\u0639\u0630\u0631\u062a\u060c \u0628\u0631\u0627\u06c1 \u06a9\u0631\u0645 apna sawal \u0648\u0627\u0636\u062d \u06a9\u0631\u06cc\u06ba \u06cc\u0627 \u0645\u062f\u062f \u06a9\u06d2 \u0644\u06cc\u06d2 connect@abhi.com.pk \u067e\u0631 \u0627\u06cc\u0645\u06cc\u0644 \u06a9\u0631\u06cc\u06ba\u06d4",
+            "timestamp": "2024-06-13T06:18:43.282505"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T06:20:47.406376"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc \u06a9\u0627 \u0632\u06cc\u0627\u062f\u06c1 \u062a\u0631 \u062a\u0639\u0644\u0642 \u0627\u0628\u06be\u06cc \u06a9\u06d2 \u0633\u0631\u0648\u0633\u0632 \u0633\u06d2 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2\u06d4",
+            "timestamp": "2024-06-13T06:20:54.263698"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc  \u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T06:30:15.747447"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0645\u0639\u0630\u0631\u062a\u060c Abhi app \u0645\u0648\u0633\u06cc\u0642\u06cc \u0633\u06d2 \u0645\u062a\u0639\u0644\u0642 \u0646\u06c1\u06cc\u06ba \u06c1\u06d2.",
+            "timestamp": "2024-06-13T06:30:18.828048"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T10:25:08.270105"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc \u0641\u0646 \u06c1\u06d2.",
+            "timestamp": "2024-06-13T10:25:12.067455"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T10:27:35.774379"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u0631\u0679.",
+            "timestamp": "2024-06-13T10:27:40.479137"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc  \u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T10:30:32.962853"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0641\u0646.",
+            "timestamp": "2024-06-13T10:30:35.109745"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T10:32:49.199265"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u0631\u0679.",
+            "timestamp": "2024-06-13T10:32:52.275982"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T10:33:34.726301"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u0631\u0679.",
+            "timestamp": "2024-06-13T10:33:37.457277"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T10:34:51.503559"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u0631\u0679.",
+            "timestamp": "2024-06-13T10:34:53.265833"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T10:37:27.978106"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0641\u0646.",
+            "timestamp": "2024-06-13T10:37:29.659293"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T10:38:40.323709"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0641\u0646.",
+            "timestamp": "2024-06-13T10:38:43.859032"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T10:41:38.316090"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u0631\u0679.",
+            "timestamp": "2024-06-13T10:41:39.738589"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T10:42:11.407511"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0641\u0646.",
+            "timestamp": "2024-06-13T10:42:15.114842"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T10:44:48.029665"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u0631\u0679.",
+            "timestamp": "2024-06-13T10:44:49.767901"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T10:50:23.142021"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0641\u0646.",
+            "timestamp": "2024-06-13T10:50:25.438537"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T10:51:22.522526"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u0631\u0679.",
+            "timestamp": "2024-06-13T10:51:24.767567"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T10:53:19.681392"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u0631\u0679.",
+            "timestamp": "2024-06-13T10:53:23.049597"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T10:54:43.512226"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0641\u0646.",
+            "timestamp": "2024-06-13T10:54:47.524770"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T10:57:07.667043"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u0631\u0679.",
+            "timestamp": "2024-06-13T10:57:10.656255"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T10:58:53.505884"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u0631\u0679.",
+            "timestamp": "2024-06-13T10:58:54.896055"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T11:02:16.872769"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0641\u0646.",
+            "timestamp": "2024-06-13T11:02:19.785662"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T11:06:52.525453"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u0631\u0679.",
+            "timestamp": "2024-06-13T11:06:54.835130"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T11:11:16.096082"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0641\u0646.",
+            "timestamp": "2024-06-13T11:11:17.838189"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T11:13:52.909109"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u0631\u0679.",
+            "timestamp": "2024-06-13T11:13:54.691162"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T11:14:33.641563"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0641\u0646.",
+            "timestamp": "2024-06-13T11:14:36.720004"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T11:31:38.837623"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u0631\u0679.",
+            "timestamp": "2024-06-13T11:31:42.152829"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T12:17:35.365646"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0641\u0646.",
+            "timestamp": "2024-06-13T12:17:38.844996"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-13T12:18:03.638377"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u0631\u0679.",
+            "timestamp": "2024-06-13T12:18:06.174158"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-20T05:59:23.877858"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0641\u0646.",
+            "timestamp": "2024-06-20T05:59:26.521452"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-20T06:12:41.303603"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u0631\u0679.",
+            "timestamp": "2024-06-20T06:12:43.492333"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-20T06:20:17.071286"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0641\u0646.",
+            "timestamp": "2024-06-20T06:20:20.001504"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc  \u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-20T06:24:36.968204"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0641\u0646.",
+            "timestamp": "2024-06-20T06:24:41.047843"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc  \u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "timestamp": "2024-06-20T07:04:58.718669"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0641\u0646.",
+            "timestamp": "2024-06-20T07:05:01.321904"
+        },
+        {
+            "role": "user",
+            "content": "who is usman ghulam",
+            "timestamp": "2024-06-20T09:51:55.666128"
+        },
+        {
+            "role": "assistant",
+            "content": "Please provide the CNIC number associated with Usman Ghulam, and I can look up the relevant information using Abhi's tools.",
+            "timestamp": "2024-06-20T09:51:59.713097"
+        },
+        {
+            "role": "user",
+            "content": "3520242438955",
+            "timestamp": "2024-06-20T09:52:26.842675"
+        },
+        {
+            "role": "assistant",
+            "content": "CNIC number 3520242438955 ke mutabiq, Usman Ghulam ki maloomat Abhi ke records mein mojood nahi hai. Barah-e-karam, agar aap Usman Ghulam ke hawale se more specific maloomat ya madad chahtay hain to connect@abhi.com.pk par email karen ya +923041115276 par call karen.",
+            "timestamp": "2024-06-20T09:52:32.205528"
+        },
+        {
+            "role": "user",
+            "content": "who is raze",
+            "timestamp": "2024-06-20T09:52:58.286606"
+        },
+        {
+            "role": "assistant",
+            "content": "Please provide the CNIC number associated with Raze, and I can look up the relevant information using Abhi's tools.",
+            "timestamp": "2024-06-20T09:53:00.631170"
+        },
+        {
+            "role": "user",
+            "content": "3520142657197",
+            "timestamp": "2024-06-20T09:53:07.886297"
+        },
+        {
+            "role": "assistant",
+            "content": "CNIC number 3520142657197 ke mutabiq, Muhammad Raze naam ke shakhs ki maloomat Abhi system mein majood hai. Unki reported salary Rs. 100,000 hai, aur unka account status \"Active\" hai jiske bank account details processed ok hain aur account number 25447001335103 hai. Unki verification abhi tak complete nahi hui hai.\n\nAgar aapko mazeed koi maloomat chahiye ya koi aur sawal hai, to aap connect@abhi.com.pk par email bhej sakte hain ya +923041115276 par phone call kar sakte hain.",
+            "timestamp": "2024-06-20T09:53:16.606367"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "audio_path": "uploads/file_example_WAV_2MG.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0641\u0646."
+        },
+        {
+            "role": "user",
+            "content": "Hello Cashy !"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to abhi, How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "Hellow"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to abhi, How can I assist you today?"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "audio_path": "uploads/file_example_WAV_1MG.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0641\u0646."
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "audio_path": "uploads/3520142657197_uploaded_audio_1719809537.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u0631\u0679.",
+            "audio_path": "uploads/3520142657197_generated_speech_1719809550.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u0631\u0679.",
+            "audio_path": "uploads/3520142657197_generated_speech_1719809550.wav"
+        },
+        {
+            "role": "user",
+            "content": "Hello Cashy !"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to abhi, How can I assist you today?",
+            "audio_path": "uploads/3520142657197_generated_speech_1719811774.wav"
+        },
+        {
+            "role": "user",
+            "content": "Good good"
+        },
+        {
+            "role": "assistant",
+            "content": "Great to hear that! If you have any questions or need assistance with Abhi's services, feel free to ask. How can I assist you today?",
+            "audio_path": "uploads/3520142657197_generated_speech_1719832837.wav"
+        },
+        {
+            "role": "user",
+            "content": "Hello Cashy !"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to abhi, How can I assist you today?",
+            "audio_path": "uploads/3520142657197_generated_speech_1719832903.wav"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "audio_path": "uploads/3520142657197_uploaded_audio_1721904830.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0641\u0646.",
+            "audio_path": "uploads/3520142657197_generated_speech_1721904843.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0641\u0646.",
+            "audio_path": "uploads/3520142657197_generated_speech_1721904844.wav"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u0648\u0633\u06cc\u0642\u06cc give very short answer",
+            "audio_path": "uploads/3520142657197_uploaded_audio_1721906511.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0641\u0646.",
+            "audio_path": "uploads/3520142657197_generated_speech_1721906524.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0641\u0646.",
+            "audio_path": "uploads/3520142657197_generated_speech_1721906525.wav"
+        }
+    ]
+}

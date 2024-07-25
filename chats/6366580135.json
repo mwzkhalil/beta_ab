@@ -1,0 +1,60 @@
+{
+    "user_id": "6366580135",
+    "chat": [
+        {
+            "role": "user",
+            "content": "heyy",
+            "timestamp": "2024-06-14T07:01:14.668062"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to Abhi. How can I assist you today?",
+            "timestamp": "2024-06-14T07:01:16.735830"
+        },
+        {
+            "role": "user",
+            "content": "/text i want to know about my account",
+            "timestamp": "2024-06-14T07:01:34.228492"
+        },
+        {
+            "role": "assistant",
+            "content": "Sure, I can assist you with information about your account. Could you please provide me with your CNIC number so that I can look up your details?",
+            "timestamp": "2024-06-14T07:01:36.084650"
+        },
+        {
+            "role": "user",
+            "content": "my cnic is 3520284251279",
+            "timestamp": "2024-06-14T07:03:13.018270"
+        },
+        {
+            "role": "assistant",
+            "content": "According to our records, your account details are as follows:\n\n- **Name:** Muhammad Usman Khalid\n- **CNIC:** 3520284251279\n- **Salary:** PKR 1,000,000\n- **Bank Account Status:** Active\n- **Bank Account Title:** MUHAMMAD USMAN KHALID\n- **Bank Account Number:** 08980010065463280019\n\nYour **available balance** is PKR 899,850. Your last transaction status is **complete**.\n\nIf you need more information or have any other queries, feel free to ask.",
+            "timestamp": "2024-06-14T07:03:56.506702"
+        },
+        {
+            "role": "user",
+            "content": "and whats my friends 4550464266069",
+            "timestamp": "2024-06-14T07:04:43.044711"
+        },
+        {
+            "role": "assistant",
+            "content": "I apologize, but I'm unable to find any account information associated with the CNIC number 4550464266069 in our system. It's possible that your friend may not be registered or their company might not be partnered with Abhi yet.\n\nFor further assistance, please ask your friend to reach out to us, or they may need to speak to their HR department about getting onboarded with Abhi. If there's anything else I can help you with, let me know!",
+            "timestamp": "2024-06-14T07:04:55.246145"
+        },
+        {
+            "role": "user",
+            "content": "/register john_doe password123 12345-6789012-3",
+            "timestamp": "2024-06-20T08:51:26.859510"
+        },
+        {
+            "role": "assistant",
+            "content": "To register on the Abhi platform, please do not share your personal credentials publicly for security reasons. To create an account, download the Abhi app from your smartphone's app store and follow the registration process within the app using your CNIC number and creating a secure password.\n\nIf you need any assistance with the registration process or have any other queries, please feel free to reach out to us at connect@abhi.com.pk or by phone at +923041115276.\n\nFor your security, please ensure you keep your passwords and personal information confidential and only enter them in the official app or secured websites.",
+            "timestamp": "2024-06-20T08:51:33.542658"
+        },
+        {
+            "role": "user",
+            "content": "/chat what is my available balance?",
+            "timestamp": "2024-06-20T08:52:47.962603"
+        }
+    ]
+}

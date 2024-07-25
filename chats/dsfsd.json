@@ -1,0 +1,15 @@
+{
+    "user_id": "dsfsd",
+    "chat": [
+        {
+            "role": "user",
+            "content": "what is lol?",
+            "timestamp": "2024-06-12T09:26:14.202127"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to Abhi, How can i assist you today?",
+            "timestamp": "2024-06-12T09:26:16.390686"
+        }
+    ]
+}

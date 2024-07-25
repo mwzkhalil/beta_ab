@@ -1,0 +1,35 @@
+{
+    "user_id": "dilnawaz",
+    "chat": [
+        {
+            "role": "user",
+            "content": "what is lol?",
+            "timestamp": "2024-06-12T08:27:23.253197"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to Abhi, How can I assist you today?",
+            "timestamp": "2024-06-12T08:27:25.716870"
+        },
+        {
+            "role": "user",
+            "content": "what is lol?",
+            "timestamp": "2024-06-12T08:27:30.741868"
+        },
+        {
+            "role": "assistant",
+            "content": "If you are referring to \"lol\" in the context of messaging or online communication, it stands for \"laugh out loud.\" It's commonly used as a response to something funny.\n\nHowever, if you are asking about something specific to Abhi and \"lol\" relates to a term or feature in our system, I would need more information to provide you with an accurate answer. If it's related to Abhi's services, could you please provide more details or context? If not, and you have any questions about Abhi's services, feel free to ask!",
+            "timestamp": "2024-06-12T08:27:38.467149"
+        },
+        {
+            "role": "user",
+            "content": "what is abhi?",
+            "timestamp": "2024-06-12T08:27:46.480303"
+        },
+        {
+            "role": "assistant",
+            "content": "Abhi is a Pakistani fintech company that offers financial services such as Earned Wage Access (EWA). Through the Abhi app or SMS, employees can access a portion of their earned but unpaid salary anytime and anywhere. This service allows employees to withdraw their salary in advance, pay bills, and send money to family or friends whenever they need it. By using Abhi, employees can alleviate financial stress, and employers can benefit from increased productivity in the workplace. It is designed to be a flexible and convenient solution for employees to manage their earnings and cash flow between pay cycles.",
+            "timestamp": "2024-06-12T08:27:53.976314"
+        }
+    ]
+}

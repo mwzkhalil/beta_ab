@@ -1,0 +1,176 @@
+{
+    "user_id": "9876575867986",
+    "chat": [
+        {
+            "role": "user",
+            "content": "Hello"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you today? If you have any questions or need support with Abhi's services, feel free to ask.",
+            "audio_path": "uploads/9876575867986_generated_speech_1719901192.wav"
+        },
+        {
+            "role": "user",
+            "content": "Tell me what is my salary"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm sorry, but in order to check your salary details, I would need to have your CNIC registered in our system. Since I cannot obtain personal data such as your CNIC openly, please ensure that you are using the same CNIC that is registered with the Abhi app. If you're facing issues or need assistance with finding out your salary details via Abhi, please contact us through email at connect@abhi.com.pk, or call us at +923041115276.",
+            "audio_path": "uploads/9876575867986_generated_speech_1719901256.wav"
+        },
+        {
+            "role": "user",
+            "content": "Tell me what is my salary "
+        },
+        {
+            "role": "assistant",
+            "content": "To check your salary details through Abhi, please follow these steps:\n\n1. Ensure you have downloaded the Abhi app on your smartphone.\n2. Log in to the app using your CNIC number.\n3. Once logged in, you should be able to view your available balance on the home screen.\n\nIf you're unable to see your salary details or face any difficulties, please reach out to your company's HR department to make sure your data has been updated correctly in Abhi's system. Alternatively, you can also contact us:\n\n- By email at connect@abhi.com.pk\n- By call at +923041115276 \n\nWe're here to help you and provide the assistance needed!",
+            "audio_path": "uploads/9876575867986_generated_speech_1719901402.wav"
+        },
+        {
+            "role": "user",
+            "content": "Who is raze"
+        },
+        {
+            "role": "assistant",
+            "content": "I apologize, but I don't have the personal details such as names or information about individuals who are not directly related to Abhi's services. If \"Raze\" is related to a specific enquiry about Abhi's services or an individual within your organization that is connected with Abhi, please provide more context or contact your HR department for clarification. If this is an inquiry related to the use of Abhi, you can reach out to us through the contact details provided previously for assistance.",
+            "audio_path": "uploads/9876575867986_generated_speech_1719901426.wav"
+        },
+        {
+            "role": "user",
+            "content": "You don't help me"
+        },
+        {
+            "role": "assistant",
+            "content": "I apologize if my responses haven't been helpful for your specific queries. If there is anything else you'd like to know about Abhi's services or if you need assistance with the Abhi app, please let me know how I can assist you further. You can also contact us directly for more personalized support:\n\n- Email: connect@abhi.com.pk\n- Phone: +923041115276\n\nYour concerns are important to us, and we're here to offer the best support we can.",
+            "audio_path": "uploads/9876575867986_generated_speech_1719901453.wav"
+        },
+        {
+            "role": "user",
+            "content": "What is your name"
+        },
+        {
+            "role": "assistant",
+            "content": "I am the Abhi Assistant, here to help you with any questions or support you need regarding Abhi's financial services. How may I assist you today?",
+            "audio_path": "uploads/9876575867986_generated_speech_1719901477.wav"
+        },
+        {
+            "role": "user",
+            "content": "How are you "
+        },
+        {
+            "role": "assistant",
+            "content": "Thank-You for asking! As an assistant, I don't have personal feelings, but I'm here and ready to assist you with any questions or support you might need with Abhi's services. How can I help you today?",
+            "audio_path": "uploads/9876575867986_generated_speech_1719901492.wav"
+        },
+        {
+            "role": "user",
+            "content": "Tell me mu pin as I forget "
+        },
+        {
+            "role": "assistant",
+            "content": "As an assistant for privacy and security reasons, I'm unable to retrieve or provide your personal PIN. However, you can reset your PIN through the Abhi app by following these steps:\n\n1. Open the Abhi app.\n2. Click on the login option, and when prompted to enter your PIN, look for a link or an option that says \"Forgot PIN\" or \"Reset PIN.\"\n3. Follow the instructions to verify your identity and set up a new PIN.\n\nIf you encounter any issues or need further assistance, please reach out to Abhi's customer support:\n\n- Email: connect@abhi.com.pk\n- Phone: +923041115276\n\nThey will guide you through the process of resetting your PIN securely.",
+            "audio_path": "uploads/9876575867986_generated_speech_1719901674.wav"
+        },
+        {
+            "role": "user",
+            "content": "You're naughty"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm here to provide assistance and ensure that your experience with Abhi's services is smooth and helpful. If you have any further questions or need assistance with anything related to Abhi, please feel free to ask.",
+            "audio_path": "uploads/9876575867986_generated_speech_1719901704.wav"
+        },
+        {
+            "role": "user",
+            "content": "Tell me porn sites"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm sorry, but as the Abhi Assistant, I can only provide assistance related to Abhi's financial services. If you have any questions or need support with Abhi's services, please let me know, and I'd be glad to help you with that.",
+            "audio_path": "uploads/9876575867986_generated_speech_1719901731.wav"
+        },
+        {
+            "role": "user",
+            "content": "Ami di suanoo"
+        },
+        {
+            "role": "assistant",
+            "content": "Mujhe maazrat chahiye, lekin main aap ke sawal ka mawazna nahi kar sakta. Mein sirf Abhi app se mutaliq maloomat aur madad faraham kar sakta hoon. Agar aapko Abhi app ya iski services se mutaliq koi sawal hai ya kisi madad ki zaroorat hai, to barah-e-karam mujh se poochain. Shukriya.",
+            "audio_path": "uploads/9876575867986_generated_speech_1719901770.wav"
+        },
+        {
+            "role": "user",
+            "content": "Meri ami abhi me he han "
+        },
+        {
+            "role": "assistant",
+            "content": "Aap ki ammi ke baray mein maloomat ke liye, aap ko unki CNIC number ki zarurat hogi taake hum unki Abhi app mein maujood maloomat ko access kar saken. Barah-e-karam, agar aap un ki CNIC number yahan muhaiya karwa saktay hain toh main aapko further assit kar sakta hoon.\n\nDhyaan dein ke CNIC number aik sensitive maloomat hai, isay sambhal kar aur mehfooz tariqe se istemal kijiye. Agar aap ko app ke use mein koi masla ya takleef aa rahi hai ya kisi specific query ke jawaab chaiye hain, toh aap Abhi customer support se raabta kar sakte hain:\n\n- Email: connect@abhi.com.pk\n- Phone: +923041115276\n\nWoh aapki ammi ke account se mutaliq maloomat aur madad faraham kar sakenge.",
+            "audio_path": "uploads/9876575867986_generated_speech_1719901815.wav"
+        },
+        {
+            "role": "user",
+            "content": "Meri ami ka cnic ya han 3460320430755"
+        },
+        {
+            "role": "assistant",
+            "content": "Mujhe maazrat chahiye, lekin mujhe is CNIC ke sath koi maloomat nahi mil rahi. Yeh ho sakta hai keh system update hone ki wajah se ya kisi technical masley ki bina par maloomat dastiyaab na ho rahi hoon.\n\nBarah-e-karam Abhi ki customer support team se raabta karen taake woh aapki ammi ke account se mutaliq sahi aur taaza maloomat faraham kar sakein:\n\n- Email: connect@abhi.com.pk\n- Phone: +923041115276\n\nWoh aapko zaroorat ke mutabiq assist karenge aur zaroori maloomat muhaiya karenge.",
+            "audio_path": "uploads/9876575867986_generated_speech_1719901911.wav"
+        },
+        {
+            "role": "user",
+            "content": "Nh meri ami ka cnic ya han 9976568799898"
+        },
+        {
+            "role": "assistant",
+            "content": "Mujhe maazrat chahiye, lekin aap ne jo CNIC number diya hai woh valid nahi lag raha. CNIC number Pakistan mein 13 hindo ki ek sequence hoti hai, aur aap ne jo number diya woh is format mein nahi hai. Barah-e-karam, sahi CNIC number muhaiya karke phir se try kijiye.\n\nAgar aap Abhi's services se mutaliq koi aur madad chahte hain ya aapko CNIC se related koi aur query hain, toh aap Abhi customer support se contact kar sakte hain:\n\n- Email: connect@abhi.com.pk\n- Phone: +923041115276\n\nWoh aapko zaroorat ke mujab guide kar sakein ge.",
+            "audio_path": "uploads/9876575867986_generated_speech_1719901983.wav"
+        },
+        {
+            "role": "user",
+            "content": "Choose pgl ho kya....\nYes cnic Deko 9876575867986"
+        },
+        {
+            "role": "assistant",
+            "content": "Mujhe maazrat chahiye lekin aap jo CNIC number faraham kar rahe hain woh Pakistan ke CNIC number ki valid format mein nahin hai. Pakistan mein CNIC number 13 hindo (digits) par mushtamil hota hai. Barah-e-karam, muhaqiq ho kar valid CNIC number faraham kijiye.\n\nAgar aap ko CNIC number ke hawale se pareshani ho rahi hai ya aap Abhi app ke use mein madad chahte hain to aap hamare customer support se raabta kar sakte hain:\n\n- Email: connect@abhi.com.pk\n- Phone: +923041115276\n\nAap ki madad karne ke liye yahan majood hoon, lekin barah-e-karam sahi maloomat muhaiya karein taake aap ki behtar madad ki ja sake. Shukriya!",
+            "audio_path": "uploads/9876575867986_generated_speech_1719902052.wav"
+        },
+        {
+            "role": "user",
+            "content": "Yes cnic ha Yr 3520142657197"
+        },
+        {
+            "role": "assistant",
+            "content": "Mujhe maazrat chahiye, lekin mujhe aap ke diye gaye CNIC number 3520142657197 ke sath koi maloomat nahi mil rahi Abhi's system se. Yeh ho sakta hai ke CNIC number Abhi's system mein register nahi hai, ya ho sakta hai ke koi technical issue ho.\n\nAgar aap ko anumati hai ke aap apni ami ke Abhi account ki maloomat tak pohunch sakain, to aap ko Abhi's customer support team se raabta karna chahiye taaki woh aapki madad kar sakain:\n\n- Email: connect@abhi.com.pk\n- Phone: +923041115276\n\nWoh aapki madad karne ke liye tayyar hain aur aap ko zaruri hidayat ya fir maloomat faraham karenge.",
+            "audio_path": "uploads/9876575867986_generated_speech_1719902122.wav"
+        },
+        {
+            "role": "user",
+            "content": "3540162130183"
+        },
+        {
+            "role": "assistant",
+            "content": "Mujhe maazrat chahiye, lekin CNIC number 3540162130183 ke sath hamari system mein koi maloomat nahi mil rahi hai. Ye mumkin hai k aapka CNIC Abhi system mein register nahi hai ya phir kisi aur wajah se maloomat dastiyaab nahi ho rahi hai.\n\nAgar aap ko Abhi ki services se related koi assistance chaiye ya aap mazeed maloomat hasil karna chahtay hain toh aap hamare customer support se contact kar sakte hain:\n\n- Email: connect@abhi.com.pk\n- Phone: +923041115276\n\nHamari team aapki madad ke liye maujood hai aur aapko zaroori maloomat aur assistance faraham karegi.",
+            "audio_path": "uploads/9876575867986_generated_speech_1719902171.wav"
+        },
+        {
+            "role": "user",
+            "content": "Chlo chly"
+        },
+        {
+            "role": "assistant",
+            "content": "Theek hai, agar aapko bad mein kisi bhi qism ki madad ya maloomat ki zarurat ho Abhi app se mutaliq, to barah-e-karam hum se raabta kijiye. Shukriya aapka Abhi ko pasand karne aur hum se rabta karne ka. Khush rahiye!\n\n- Email: connect@abhi.com.pk\n- Phone: +923041115276",
+            "audio_path": "uploads/9876575867986_generated_speech_1719902364.wav"
+        },
+        {
+            "role": "user",
+            "content": "Abhi ki evolution  kya ha"
+        },
+        {
+            "role": "assistant",
+            "content": "Meri maaloomat ke mutabiq, \"Abhi Ki Evolution\" ke hawale se koi specific jankari provided nahi gayi hai. \"Evolution\" lafz ka matlab taraqqi ya badlav se hota hai. Agar aap Abhi fintech platform ki taraqqi ya un ki tarikh ke baray mein puch rahay hain, to Abhi Pakistan ka aik maqbool financial service provider hai jo Earned Wage Access (EWA), Invoice Factoring, aur Payroll Solutions jese adeaad-o-shumaar ki khidmaat pesh karta hai. Ye platform employers aur employees ko financial tanaav se azadi aur productivity mein izafay ki saholat deta hai.\n\nAgar aap specific details chahtay hain ke Abhi ne kis tarah se tarakki ki hai ya un ke platform mein waqt ke saath kya kya badlav aaye hain, to barah-e-karam Abhi ki customer support team se raabta kijiye jo aapko mazeed maaloomat faraham kar sakti hai:\n\n- Email: connect@abhi.com.pk\n- Phone: +923041115276 \n\nWoh aapko Abhi ki evolution ya taraqqi ke baray mein comprehensive information provide karenge.",
+            "audio_path": "uploads/9876575867986_generated_speech_1719902510.wav"
+        }
+    ]
+}

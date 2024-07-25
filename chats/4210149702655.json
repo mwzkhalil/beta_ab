@@ -1,0 +1,32 @@
+{
+    "user_id": "4210149702655",
+    "chat": [
+        {
+            "role": "user",
+            "content": "Hello, mujhe apna balance janna hai"
+        },
+        {
+            "role": "assistant",
+            "content": "Aap ka mojooda balance Rs. 19,948,950 hai.",
+            "audio_path": "uploads/4210149702655_generated_speech_1720683521.wav"
+        },
+        {
+            "role": "user",
+            "content": "Kia abhi card offer karta hai? "
+        },
+        {
+            "role": "assistant",
+            "content": "Jee nahi, Abhi app is waqt koi debit card ya credit card offer nahi karta. Abhi sirf Earned Wage Access (EWA) service provide karta hai apne users ko jis ke zariye wo apni kamai hui magar abhi tak pay nahi ki gai salary ko kisi bhi waqt, kahin bhi, app ya SMS ke zariye access kar sakte hain.",
+            "audio_path": "uploads/4210149702655_generated_speech_1720683627.wav"
+        },
+        {
+            "role": "user",
+            "content": "Abhi kia karta hai"
+        },
+        {
+            "role": "assistant",
+            "content": "Abhi app employees ko unki kamai hui lekin abhi tak adaa na ki gayi salary ko kabhi bhi, kahin se bhi, app ya SMS ke zariye istemal karne ki sahulat deta hai. Users apni salary ka kuch hissa nikal saktay hain, bill adaa kar sakte hain, aur apne khandaan ya dostoun ko raqam bhej sakte hain jab chahain. Abhi ke zariye, employees mali pareshani ke baghair kaam karte hain aur employers zyada productivity ka lutf uthate hain.",
+            "audio_path": "uploads/4210149702655_generated_speech_1720683805.wav"
+        }
+    ]
+}

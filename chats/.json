@@ -1,0 +1,25 @@
+{
+    "user_id": "",
+    "chat": [
+        {
+            "role": "user",
+            "content": "sdfsdfsd",
+            "timestamp": "2024-06-12T09:45:29.055033"
+        },
+        {
+            "role": "assistant",
+            "content": "Could you please provide more details or clarify your query so I can assist you better? If you have any questions about Abhi's services, feel free to ask. Alternatively, you can contact us through email at connect@abhi.com.pk or phone: +923041115276.",
+            "timestamp": "2024-06-12T09:45:33.279636"
+        },
+        {
+            "role": "user",
+            "content": "sdfsdfsd",
+            "timestamp": "2024-06-12T09:45:54.426855"
+        },
+        {
+            "role": "assistant",
+            "content": "I apologize, but I am not able to understand your query. Please provide more details or ask a specific question related to Abhi's services so I can assist you accordingly. If you need any assistance, feel free to ask here, or you can contact Abhi directly via email at connect@abhi.com.pk or by phone at +923041115276.",
+            "timestamp": "2024-06-12T09:45:58.820350"
+        }
+    ]
+}

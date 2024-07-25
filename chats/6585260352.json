@@ -1,0 +1,35 @@
+{
+    "user_id": "6585260352",
+    "chat": [
+        {
+            "role": "user",
+            "content": "/text hello",
+            "timestamp": "2024-06-20T09:33:35.685624"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to Abhi. How can I assist you today?",
+            "timestamp": "2024-06-20T09:33:37.778605"
+        },
+        {
+            "role": "user",
+            "content": "How are u",
+            "timestamp": "2024-06-20T09:33:44.032525"
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you for reaching out. How can I assist you with Abhi's services today?",
+            "timestamp": "2024-06-20T09:33:46.498859"
+        },
+        {
+            "role": "user",
+            "content": "Who is abhi?",
+            "timestamp": "2024-06-20T09:34:04.722434"
+        },
+        {
+            "role": "assistant",
+            "content": "Abhi is a Pakistani fintech company providing financial services such as Earned Wage Access (EWA), which allows employees to access their earned but unpaid salary anytime through an app or SMS. Abhi helps workers manage unexpected expenses without financial stress and allows employers to enjoy higher productivity by offering this flexible salary advance service.",
+            "timestamp": "2024-06-20T09:34:08.891084"
+        }
+    ]
+}

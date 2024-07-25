@@ -1,0 +1,68 @@
+{
+    "user_id": "1234567202472",
+    "chat": [
+        {
+            "role": "user",
+            "content": "Hello Cashy !"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you today?",
+            "audio_path": "uploads/1234567202472_generated_speech_1719819365.wav"
+        },
+        {
+            "role": "user",
+            "content": "i am facing issue in bank account"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm sorry to hear that you're having an issue with your bank account. Could you please provide me with more details about the problem you're facing? Are you encountering issues with a transaction, balance, or something else related to your Abhi account?",
+            "audio_path": "uploads/1234567202472_generated_speech_1719819392.wav"
+        },
+        {
+            "role": "user",
+            "content": "Hello"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you with your Abhi account or services today?",
+            "audio_path": "uploads/1234567202472_generated_speech_1719819957.wav"
+        },
+        {
+            "role": "user",
+            "content": "????"
+        },
+        {
+            "role": "assistant",
+            "content": "Apologies for the confusion. Please let me know how I may assist you with your Abhi account or services. If you're facing an issue, kindly provide me with the relevant details so that I can help you effectively.",
+            "audio_path": "uploads/1234567202472_generated_speech_1719820257.wav"
+        },
+        {
+            "role": "user",
+            "content": "muja add abnk account ma masla a rha ha "
+        },
+        {
+            "role": "assistant",
+            "content": "Aap ke bank account ke saath kya masla hai? Kya aap ko bank account ko Abhi app se link karte waqt koi error message mil raha hai ya aap ka transaction nahi ho pa raha? Barah-e-karam, masle ki mukammal tafseelat farahem karein takay main aap ki madad kar sakun.",
+            "audio_path": "uploads/1234567202472_generated_speech_1719820337.wav"
+        },
+        {
+            "role": "user",
+            "content": "muja apka customer support sa bat krni ha "
+        },
+        {
+            "role": "assistant",
+            "content": "Aap Abhi ki customer support team se baat karne ke liye humare email address connect@abhi.com.pk par email bhej sakte hain ya phir +923041115276 par call kar sakte hain. Humari team aap ke masail sun ke aap ki madad karne ke liye hazir hai.",
+            "audio_path": "uploads/1234567202472_generated_speech_1719820402.wav"
+        },
+        {
+            "role": "user",
+            "content": "hello"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I help you today with your Abhi services? If you're experiencing any issues or have questions, feel free to ask.",
+            "audio_path": "uploads/1234567202472_generated_speech_1721368986.wav"
+        }
+    ]
+}

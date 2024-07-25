@@ -1,0 +1,35 @@
+{
+    "user_id": "hugetestuser1234",
+    "chat": [
+        {
+            "role": "user",
+            "content": "Hello Cashy !",
+            "timestamp": "2024-06-13T05:56:41.190242"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to Abhi, How can I assist you today?",
+            "timestamp": "2024-06-13T05:56:42.996807"
+        },
+        {
+            "role": "user",
+            "content": "Hello",
+            "timestamp": "2024-06-13T05:58:33.001867"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to Abhi, How can I assist you today?",
+            "timestamp": "2024-06-13T05:58:34.685646"
+        },
+        {
+            "role": "user",
+            "content": "How are you",
+            "timestamp": "2024-06-13T05:58:47.326210"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm here to assist you with your queries regarding Abhi's services. How can I help you today?",
+            "timestamp": "2024-06-13T05:58:49.655343"
+        }
+    ]
+}

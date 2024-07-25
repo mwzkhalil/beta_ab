@@ -1,0 +1,216 @@
+{
+    "user_id": "3520284251279",
+    "chat": [
+        {
+            "role": "user",
+            "content": "what was my balance??"
+        },
+        {
+            "role": "assistant",
+            "content": "To check your available balance, please log into the Abhi app. If you have any issues or need further assistance, don't hesitate to contact us at connect@abhi.com.pk or call us at +923041115276."
+        },
+        {
+            "role": "user",
+            "content": "what was my balance??"
+        },
+        {
+            "role": "assistant",
+            "content": "Your current available balance is PKR 899,850. If you have any more questions or require further assistance, please let me know."
+        },
+        {
+            "role": "user",
+            "content": "what was my balance my cnic is 4550464266069??"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to Abhi, How can I assist you today?\n\nI apologize, but I cannot provide balance information for the CNIC 4550464266069 as our records currently reflect a different CNIC. For privacy and security reasons, I can only disclose the balance associated with the CNIC ending in 1279. If you believe there's an error or if you have any other questions, please feel free to reach out to us at connect@abhi.com.pk or call us at +923041115276. Thank you."
+        },
+        {
+            "role": "user",
+            "content": "\u06cc\u06c1 \u0627\u06cc \u0688\u0628\u0644\u0648 \u0628\u06cc \u06a9\u06cc\u0627 \u06c1\u0648\u062a\u0627 \u06c1\u06d2 \u0627\u0633 \u0645\u06cc\u06ba \u06a9\u0633 \u0637\u0631\u062d \u0633\u06d2 \u0622\u067e \u0633\u06cc\u0644\u0631\u06cc \u06a9\u06cc\u0644\u06a9\u0648\u0644\u06cc\u0679 \u06a9\u0631\u062a\u06d2 \u06c1\u06cc\u06ba give very short answer",
+            "audio_path": "uploads/test_2.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u06cc \u0688\u0628\u0644\u06cc\u0648 \u0627\u06d2\u060c Earned Wage Access \u06a9\u0627 \u0645\u062e\u0641\u0641 \u06c1\u06d2\u060c \u062c\u0648 \u06a9\u06c1 \u0645\u0644\u0627\u0632\u0645\u06cc\u0646 \u06a9\u0648 \u0627\u0646 \u06a9\u06cc \u0645\u062d\u0646\u062a \u06a9\u06cc \u06a9\u0645\u0627\u0626\u06cc \u06af\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u06a9\u0627 \u06a9\u0686\u06be \u062d\u0635\u06c1 \u067e\u06d2\u0688\u06d2 \u0633\u06d2 \u067e\u06c1\u0644\u06d2 \u062d\u0627\u0635\u0644 \u06a9\u0631\u0646\u06d2 \u062f\u06cc\u062a\u06cc \u06c1\u06d2. \u06c1\u0645 \u0622\u067e \u06a9\u06cc \u0633\u06cc\u0644\u0631\u06cc \u06a9\u06cc\u0644\u06a9\u0648\u0644\u06cc\u0679 \u06a9\u0631 \u06a9\u06d2 \u0622\u067e \u06a9\u0648 \u0622\u067e \u06a9\u06cc \u06a9\u0645\u0627\u0626\u06cc \u06c1\u0648\u0626\u06cc \u062a\u06ba\u062e\u0648\u0627\u06c1 \u0645\u06cc\u06ba \u0633\u06d2 50% \u062a\u06a9 \u0631\u0642\u0645 \u0646\u06a9\u0644\u0648\u0627\u0646\u06d2 \u06a9\u06cc \u0633\u06c1\u0648\u0644\u062a \u062f\u06cc\u062a\u06d2 \u06c1\u06cc\u06ba.\n"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u062c\u06be\u06d2 \u0627\u06cc\u0688\u0648\u0627\u0646\u0633 \u06a9\u0627 \u06a9\u062a\u0646\u0627 \u067e\u0631\u0633\u0646\u0679 \u062d\u0635\u06c1 \u0645\u0644\u06d2 \u06af\u0627 \u0627\u06af\u0631 \u0645\u062c\u06be\u06d2 \u0627\u06cc\u0688\u0648\u0627\u0646\u0633 \u0644\u06cc\u0646\u0627 \u06c1\u06d2 \u062a\u0648 \u06a9\u062a\u0646\u06d2 \u067e\u06cc\u0633\u06d2 \u062f\u06cc\u06d2 \u062c\u0627\u0626\u06cc\u06ba \u06af\u06d2 give very short answer",
+            "audio_path": "uploads/test_3.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u067e \u0627\u067e\u0646\u06cc \u06a9\u0645\u0627\u0626\u06cc \u06c1\u0648\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u06a9\u0627 50% \u062d\u0635\u06c1 \u0627\u06cc\u0688\u0648\u0627\u0646\u0633 \u0645\u06cc\u06ba \u0644\u06d2 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba \u0627\u0648\u0631 \u06c1\u0631 \u0679\u0631\u0627\u0646\u0632\u06cc\u06a9\u0634\u0646 \u067e\u0631 \u0622\u067e\u06a9\u0648 \u0635\u0631\u0641 100 \u0631\u0648\u067e\u06d2 \u0633\u0631\u0648\u0633 \u0686\u0627\u0631\u062c \u062f\u06cc\u0646\u06d2 \u06c1\u0648\u0646\u06af\u06d2."
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u062c\u06be\u06d2 \u0627\u06cc\u0688\u0648\u0627\u0646\u0633 \u06a9\u0627 \u06a9\u062a\u0646\u0627 \u067e\u0631\u0633\u0646\u0679 \u062d\u0635\u06c1 \u0645\u0644\u06d2 \u06af\u0627 \u0627\u06af\u0631 \u0645\u062c\u06be\u06d2 \u0627\u06cc\u0688\u0648\u0627\u0646\u0633 \u0644\u06cc\u0646\u0627 \u06c1\u06d2 \u062a\u0648 \u06a9\u062a\u0646\u06d2 \u067e\u06cc\u0633\u06d2 \u062f\u06cc\u06d2 \u062c\u0627\u0626\u06cc\u06ba \u06af\u06d2 give very short answer",
+            "audio_path": "uploads/test_3.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u067e \u06a9\u0645\u0627\u0626\u06cc \u06c1\u0648\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u06a9\u0627 50% \u062a\u06a9 \u0627\u06cc\u0688\u0648\u0627\u0646\u0633 \u0645\u06cc\u06ba \u0644\u06d2 \u0633\u06a9\u062a\u06d2 \u06c1\u06cc\u06ba\u060c \u0627\u0648\u0631 \u06c1\u0631 \u0679\u0631\u0627\u0646\u0632\u06cc\u06a9\u0634\u0646 \u067e\u0631 100 \u0631\u0648\u067e\u06d2 \u0633\u0631\u0648\u0633 \u0686\u0627\u0631\u062c \u06c1\u0648\u06ba \u06af\u06d2."
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u062c\u06be\u06d2 \u0627\u06cc\u0688\u0648\u0627\u0646\u0633 \u06a9\u0627 \u06a9\u062a\u0646\u0627 \u067e\u0631\u0633\u0646\u0679 \u062d\u0635\u06c1 \u0645\u0644\u06d2 \u06af\u0627 \u0627\u06af\u0631 \u0645\u062c\u06be\u06d2 \u0627\u06cc\u0688\u0648\u0627\u0646\u0633 \u0644\u06cc\u0646\u0627 \u06c1\u06d2 \u062a\u0648 \u06a9\u062a\u0646\u06d2 \u067e\u06cc\u0633\u06d2 \u062f\u06cc\u06d2 \u062c\u0627\u0626\u06cc\u06ba \u06af\u06d2 give very short answer",
+            "audio_path": "uploads/test_3.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u067e \u06a9\u0648 \u0622\u067e \u06a9\u06cc \u06a9\u0645\u0627\u0626\u06cc \u06c1\u0648\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u06a9\u0627 50% \u062a\u06a9 \u0627\u06cc\u0688\u0648\u0627\u0646\u0633 \u0645\u06cc\u06ba \u0645\u0644 \u0633\u06a9\u062a\u0627 \u06c1\u06d2\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u062c\u06be\u06d2 \u0627\u06cc\u0688\u0648\u0627\u0646\u0633 \u06a9\u0627 \u06a9\u062a\u0646\u0627 \u067e\u0631\u0633\u0646\u0679 \u062d\u0635\u06c1 \u0645\u0644\u06d2 \u06af\u0627 \u0627\u06af\u0631 \u0645\u062c\u06be\u06d2 \u0627\u06cc\u0688\u0648\u0627\u0646\u0633 \u0644\u06cc\u0646\u0627 \u06c1\u06d2 \u062a\u0648 \u06a9\u062a\u0646\u06d2 \u067e\u06cc\u0633\u06d2 \u062f\u06cc\u06d2 \u062c\u0627\u0626\u06cc\u06ba \u06af\u06d2 give very short answer"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0622\u067e \u06a9\u0648 \u0622\u067e \u06a9\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u06a9\u0627 50% \u062a\u06a9 \u0627\u06cc\u0688\u0648\u0627\u0646\u0633 \u062d\u0627\u0635\u0644 \u06c1\u0648 \u0633\u06a9\u062a\u0627 \u06c1\u06d2."
+        },
+        {
+            "role": "user",
+            "content": "\u0645\u062c\u06be\u06d2 \u0627\u06cc\u0688\u0648\u0627\u0646\u0633 \u06a9\u0627 \u06a9\u062a\u0646\u0627 \u067e\u0631\u0633\u0646\u0679 \u062d\u0635\u06c1 \u0645\u0644\u06d2 \u06af\u0627 \u0627\u06af\u0631 \u0645\u062c\u06be\u06d2 \u0627\u06cc\u0688\u0648\u0627\u0646\u0633 \u0644\u06cc\u0646\u0627 \u06c1\u06d2 \u062a\u0648 \u06a9\u062a\u0646\u06d2 \u067e\u06cc\u0633\u06d2 \u062f\u06cc\u06d2 \u062c\u0627\u0626\u06cc\u06ba \u06af\u06d2 give very short answer",
+            "audio_path": "uploads/test_3.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "50% \u062a\u06a9 \u062a\u0646\u062e\u0648\u0627\u06c1 \u06a9\u0627 \u062d\u0635\u06c1 \u0645\u0644\u06d2 \u06af\u0627\u06d4 100 \u0631\u0648\u067e\u06d2 \u0679\u0631\u0627\u0646\u0632\u06cc\u06a9\u0634\u0646 \u0641\u06cc\u0633 \u06c1\u0648\u06af\u06cc\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "how abhi works?"
+        },
+        {
+            "role": "assistant",
+            "content": "Abhi allows employees to access a portion of their earned salary before payday through its app or SMS. It's a hassle-free process where employees can withdraw, pay bills, and transfer money. Repayment is made automatically from the employee's next salary, with a small transaction fee."
+        },
+        {
+            "role": "user",
+            "content": "what is my account balance?"
+        },
+        {
+            "role": "assistant",
+            "content": "In order to assist you with your account balance inquiry, could you please confirm your CNIC number? Once you provide the correct CNIC, I will be able to retrieve the information for you."
+        },
+        {
+            "role": "user",
+            "content": "my cnic is 45505505005050"
+        },
+        {
+            "role": "assistant",
+            "content": "I apologize, but I cannot provide the balance for the CNIC 45505505005050 as it does not match our records, which are associated with CNIC ending in 1279. For assistance or concerns related to your account balance, please contact us at connect@abhi.com.pk or call +923041115276."
+        },
+        {
+            "role": "user",
+            "content": "my cnic is 3520284251279"
+        },
+        {
+            "role": "assistant",
+            "content": "Your current available balance is PKR 899,850. If you need any further assistance, feel free to contact us."
+        },
+        {
+            "role": "user",
+            "content": "\u062c\u06cc \u0645\u062c\u06be\u06d2 \u0627\u0628\u06be\u06cc \u06a9\u06cc \u0633\u0631\u0648\u06cc\u0633\u0632 \u06a9\u06d2 \u0628\u0627\u0631\u06d2 \u0645\u06cc\u06ba \u0628\u062a\u0627\u0626\u06cc\u06d2 give very short answer",
+            "audio_path": "uploads/test_1.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u06a9\u06cc \u0633\u0631\u0648\u06cc\u0633\u0632 \u0645\u06cc\u06ba Earned Wage Access (EWA)\u060c Payroll Solutions\u060c \u0627\u0648\u0631 Invoice Factoring \u0634\u0627\u0645\u0644 \u06c1\u06cc\u06ba \u062c\u0648 \u0645\u0644\u0627\u0632\u0645\u06cc\u0646 \u0627\u0648\u0631 \u06a9\u0627\u0631\u0648\u0628\u0627\u0631 \u06a9\u0648 \u0645\u0627\u0644\u06cc \u0633\u06c1\u0648\u0644\u06cc\u0627\u062a \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u062a\u06cc \u06c1\u06d2."
+        },
+        {
+            "role": "user",
+            "content": "\u062c\u06cc \u0645\u062c\u06be\u06d2 \u0627\u0628\u06be\u06cc \u06a9\u06cc \u0633\u0631\u0648\u06cc\u0633\u0632 \u06a9\u06d2 \u0628\u0627\u0631\u06d2 \u0645\u06cc\u06ba \u0628\u062a\u0627\u0626\u06cc\u06d2 give very short answer",
+            "audio_path": "uploads/test_1.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u0627\u067e\u0646\u06d2 \u0635\u0627\u0631\u0641\u06cc\u0646 \u06a9\u0648 \u06a9\u0645\u0627\u0626\u06cc \u06c1\u0648\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u06a9\u0627 \u062c\u0644\u062f \u0627\u06cc\u06a9\u0633\u06cc\u0633\u060c \u0627\u0646\u0648\u0627\u0626\u0633 \u0641\u06cc\u06a9\u0679\u0631\u0646\u06af\u060c \u0627\u0648\u0631 \u067e\u06d2\u0631\u0648\u0644 \u062d\u0644 \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u062a\u0627 \u06c1\u06d2."
+        },
+        {
+            "role": "user",
+            "content": "\u062c\u06cc \u0645\u062c\u06be\u06d2 \u0627\u0628\u06be\u06cc \u06a9\u06cc \u0633\u0631\u0648\u06cc\u0633\u0632 \u06a9\u06d2 \u0628\u0627\u0631\u06d2 \u0645\u06cc\u06ba \u0628\u062a\u0627\u0626\u06cc\u06d2 give very short answer",
+            "audio_path": "uploads/3520284251279_uploaded_audio_1719405977.mp3"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u0633\u0631\u0648\u0633\u0632 \u0645\u06cc\u06ba Earned Wage Access, Payroll Solutions \u0627\u0648\u0631 Invoice Factoring \u0634\u0627\u0645\u0644 \u06c1\u06cc\u06ba."
+        },
+        {
+            "role": "user",
+            "content": "\u062c\u06cc \u0645\u062c\u06be\u06d2 \u0627\u0628\u06be\u06cc \u06a9\u06cc \u0633\u0631\u0648\u06cc\u0633\u0632 \u06a9\u06d2 \u0628\u0627\u0631\u06d2 \u0645\u06cc\u06ba \u0628\u062a\u0627\u0626\u06cc\u06d2 give very short answer",
+            "audio_path": "uploads/3520284251279_uploaded_audio_1719406198.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u06a9\u06cc \u0633\u0631\u0648\u06cc\u0633\u0632 \u0645\u06cc\u06ba Earned Wage Access (\u0645\u062d\u0646\u062a \u06a9\u06cc \u06a9\u0645\u0627\u0626\u06cc \u06c1\u0648\u0626\u06cc \u062a\u0646\u062e\u0648\u0627\u06c1 \u067e\u06c1\u0644\u06d2 \u062d\u0627\u0635\u0644 \u06a9\u0631\u0646\u0627), Payroll Solutions (\u067e\u06d2 \u0631\u0648\u0644 \u062d\u0644)\u060c \u0627\u0648\u0631 Invoice Factoring (\u0627\u0646\u0648\u0627\u0626\u0633 \u0641\u06cc\u06a9\u0679\u0631\u0646\u06af) \u0634\u0627\u0645\u0644 \u06c1\u06cc\u06ba\u06d4"
+        },
+        {
+            "role": "user",
+            "content": "\u062c\u06cc \u0645\u062c\u06be\u06d2 \u0627\u0628\u06be\u06cc \u06a9\u06cc \u0633\u0631\u0648\u06cc\u0633\u0632 \u06a9\u06d2 \u0628\u0627\u0631\u06d2 \u0645\u06cc\u06ba \u0628\u062a\u0627\u0626\u06cc\u06d2 give very short answer",
+            "audio_path": "uploads/3520284251279_uploaded_audio_1719406897.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc Earned Wage Access (\u0627\u06cc \u0688\u0628\u0644\u06cc\u0648 \u0627\u06d2), Payroll Solutions, \u0627\u0648\u0631 Invoice Factoring \u0633\u0631\u0648\u0633\u0632 \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u062a\u0627 \u06c1\u06d2."
+        },
+        {
+            "role": "user",
+            "content": "\u062c\u06cc \u0645\u062c\u06be\u06d2 \u0627\u0628\u06be\u06cc \u06a9\u06cc \u0633\u0631\u0648\u06cc\u0633\u0632 \u06a9\u06d2 \u0628\u0627\u0631\u06d2 \u0645\u06cc\u06ba \u0628\u062a\u0627\u0626\u06cc\u06d2 give very short answer",
+            "audio_path": "uploads/3520284251279_uploaded_audio_1719407739.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u06a9\u06cc \u0633\u0631\u0648\u06cc\u0633\u0632 \u0645\u06cc\u06ba Earned Wage Access\u060c Payroll Solutions \u0627\u0648\u0631 Invoice Factoring \u0634\u0627\u0645\u0644 \u06c1\u06cc\u06ba."
+        },
+        {
+            "role": "user",
+            "content": "\u062c\u06cc \u0645\u062c\u06be\u06d2 \u0627\u0628\u06be\u06cc \u06a9\u06cc \u0633\u0631\u0648\u06cc\u0633\u0632 \u06a9\u06d2 \u0628\u0627\u0631\u06d2 \u0645\u06cc\u06ba \u0628\u062a\u0627\u0626\u06cc\u06d2 give very short answer",
+            "audio_path": "uploads/3520284251279_uploaded_audio_1719409339.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u0622\u067e \u06a9\u0648 Earned Wage Access\u060c Invoice Factoring\u060c \u0627\u0648\u0631 Payroll Solutions \u06a9\u06cc \u0633\u0631\u0648\u06cc\u0633\u0632 \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u062a\u0627 \u06c1\u06d2.",
+            "audio_path": "uploads/3520284251279_generated_speech_1719409355.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u0622\u067e \u06a9\u0648 Earned Wage Access\u060c Invoice Factoring\u060c \u0627\u0648\u0631 Payroll Solutions \u06a9\u06cc \u0633\u0631\u0648\u06cc\u0633\u0632 \u0641\u0631\u0627\u06c1\u0645 \u06a9\u0631\u062a\u0627 \u06c1\u06d2.",
+            "audio_path": "uploads/3520284251279_generated_speech_1719409356.wav"
+        },
+        {
+            "role": "user",
+            "content": "what is abhi?"
+        },
+        {
+            "role": "assistant",
+            "content": "Abhi provides employees with the ability to access their earned but unpaid salary anytime via an app or SMS, empowering them to manage financial stress and improving productivity for employers.",
+            "audio_path": "uploads/3520284251279_generated_speech_1721890200.wav"
+        },
+        {
+            "role": "user",
+            "content": "what is abhi?"
+        },
+        {
+            "role": "assistant",
+            "content": "Abhi is a Pakistani fintech company offering financial services like Earned Wage Access, Invoice Factoring, and Payroll Solutions to help businesses and their employees manage finances effectively.",
+            "audio_path": "uploads/3520284251279_generated_speech_1721890973.wav"
+        },
+        {
+            "role": "user",
+            "content": "\u062c\u06cc \u0645\u062c\u06be\u06d2 \u0627\u0628\u06be\u06cc \u06a9\u06cc \u0633\u0631\u0648\u06cc\u0633\u0632 \u06a9\u06d2 \u0628\u0627\u0631\u06d2 \u0645\u06cc\u06ba \u0628\u062a\u0627\u0626\u06cc\u06d2 give very short answer",
+            "audio_path": "uploads/3520284251279_uploaded_audio_1721891020.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u06a9\u06cc \u0633\u0631\u0648\u06cc\u0633\u0632 \u0645\u06cc\u06ba Earned Wage Access\u060c Payroll Solutions\u060c \u0627\u0648\u0631 Invoice Factoring \u0634\u0627\u0645\u0644 \u06c1\u06cc\u06ba\u06d4",
+            "audio_path": "uploads/3520284251279_generated_speech_1721891035.wav"
+        },
+        {
+            "role": "assistant",
+            "content": "\u0627\u0628\u06be\u06cc \u06a9\u06cc \u0633\u0631\u0648\u06cc\u0633\u0632 \u0645\u06cc\u06ba Earned Wage Access\u060c Payroll Solutions\u060c \u0627\u0648\u0631 Invoice Factoring \u0634\u0627\u0645\u0644 \u06c1\u06cc\u06ba\u06d4",
+            "audio_path": "uploads/3520284251279_generated_speech_1721891036.wav"
+        }
+    ]
+}

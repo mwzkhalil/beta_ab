@@ -1,0 +1,14 @@
+{
+    "user_id": "1234567724151",
+    "chat": [
+        {
+            "role": "user",
+            "content": "Hello Cashy !"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! How can I assist you today?",
+            "audio_path": "uploads/1234567724151_generated_speech_1721023146.wav"
+        }
+    ]
+}

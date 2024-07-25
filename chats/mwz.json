@@ -1,0 +1,69 @@
+{
+    "user_id": "mwz",
+    "chat": [
+        {
+            "role": "user",
+            "content": "hello how are you?",
+            "timestamp": "2024-06-12T08:03:26.878015"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to Abhi, How can I assist you today?",
+            "timestamp": "2024-06-12T08:03:30.008694"
+        },
+        {
+            "role": "user",
+            "content": "what is Fintech??",
+            "timestamp": "2024-06-12T08:04:53.427605"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to Abhi, How can I assist you today?\n\nFintech, short for \"financial technology,\" refers to the integration of technology into offerings by financial services companies to improve their use and delivery to consumers. It primarily works by unbundling offerings by such firms and creating new markets for them. Startups and established companies in the financial industry use fintech for a variety of purposes, ranging from mobile banking and insurance to cryptocurrency and investment apps. Fintech also includes the development and use of cryptocurrencies such as bitcoin. That segment of fintech may see the most headlines, the big money still lies in the traditional global banking industry and its multi-trillion-dollar market capitalization.",
+            "timestamp": "2024-06-12T08:05:01.384920"
+        },
+        {
+            "role": "user",
+            "content": "what is Fintech??",
+            "timestamp": "2024-06-12T08:06:49.784330"
+        },
+        {
+            "role": "assistant",
+            "content": "Fintech, a portmanteau of \"financial technology,\" is an industry made up of companies that use technology to improve efficiencies and effectiveness in the financial services sector. It encompasses a broad range of applications, including mobile banking, peer-to-peer payments, robotic process automation in financial services, and more sophisticated applications like machine learning algorithms, cryptocurrency, and blockchain technology. Fintech aims to make financial services more accessible to the general public and to streamline the operations of financial institutions.",
+            "timestamp": "2024-06-12T08:06:55.841196"
+        },
+        {
+            "role": "user",
+            "content": "tell me my current balance",
+            "timestamp": "2024-06-20T08:57:33.032431"
+        },
+        {
+            "role": "assistant",
+            "content": "To assist you with your current balance inquiry, I will need your CNIC number. Please provide me with that information so I can proceed to check your balance.",
+            "timestamp": "2024-06-20T08:57:36.415494"
+        },
+        {
+            "role": "user",
+            "content": "tell me my current balance",
+            "timestamp": "2024-06-20T09:14:31.170155"
+        },
+        {
+            "role": "assistant",
+            "content": "To check your current balance, please provide me with your CNIC number. This information is required to look up your balance details securely.",
+            "timestamp": "2024-06-20T09:14:34.357371"
+        },
+        {
+            "role": "user",
+            "content": "my cncic is 3520284251279",
+            "timestamp": "2024-06-20T09:15:26.365725"
+        },
+        {
+            "role": "user",
+            "content": "what is abhi?"
+        },
+        {
+            "role": "assistant",
+            "content": "I apologize, but it appears there is an issue accessing your current balance information at the moment. Please ensure that the CNIC number provided is the one associated with your Abhi account. If the issue persists, or if you require immediate assistance, feel free to contact us through email at connect@abhi.com.pk or call us at +923041115276. Thank you for your understanding.",
+            "audio_path": "uploads/mwz_generated_speech_1721890133.wav"
+        }
+    ]
+}

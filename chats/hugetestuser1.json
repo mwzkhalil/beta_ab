@@ -1,0 +1,15 @@
+{
+    "user_id": "hugetestuser1",
+    "chat": [
+        {
+            "role": "user",
+            "content": "Hello Cashy !",
+            "timestamp": "2024-06-13T05:52:59.827359"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to Abhi. How can I assist you today?",
+            "timestamp": "2024-06-13T05:53:01.832261"
+        }
+    ]
+}
